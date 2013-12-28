@@ -1,6 +1,12 @@
-Website-Source-Code
-===================
 Episode # 1
-===================
 
-This is our website's source code if you're too lazy type it yourself.
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="shortcut icon" href="file:///C:/Cairead/favicon.ico">
+	<title> LOLOLOLOL </title>
+</head>
+<body>
+llololololopdlasldksalfkdsl;fjadsl
+</body>
+</html>
